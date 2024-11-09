@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186614223462",
+    "project_id": "esan2021-69b72",
+    "storage_bucket": "esan2021-69b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186614223462:android:3818ec736d1af84a4ed3a7",
+        "android_client_info": {
+          "package_name": "dev.sebastianleon.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqK8vDpFGBgfDvkylmgfSGrl3yQWAbt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
